@@ -1,4 +1,5 @@
-[ipynb](https://github.com/eyungelson/Yandex_projects/blob/main/AB%20Tests/Internet_store_AB_test.ipynb)
+[ipynb](https://github.com/eyungelson/Yandex_projects/blob/main/AB%20Tests/Internet_store_AB_test.ipynb)   
+
 В данной работе представлен анализ А/В теста для интернет-магазина.   
 В первой части рассмотрен ряд гипотез и выполнена приоритезация с помощью различных фреймворков.   
 Во второй части исследуются посещения и и заказы опытной и контрольной группы.   
