@@ -1,3 +1,5 @@
+[ipynb](https://github.com/eyungelson/Yandex_projects/blob/main/product_analytics/Product%20analytics.ipynb)   
+
 Проведен анализ маркетинговых показателей.   
 Рассмотрены данные о пользователях, привлечённых с 1 мая по 27 октября 2019 года
 
