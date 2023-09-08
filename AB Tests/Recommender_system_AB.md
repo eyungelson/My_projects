@@ -1,3 +1,5 @@
+[ipynb](https://github.com/eyungelson/Yandex_projects/blob/main/AB%20Tests/Recommender_system_AB_test.ipynb)   
+
 В работе проведен анализ A/B теста по внедрению улучшенной рекомендательной системы интернет-магазина.
 ### Цель теста 
 Оценить влияние новой системы рекомендации пользователей на воронку продаж.
